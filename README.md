@@ -5,4 +5,8 @@
 
 `source <project-dir>/bin/activate`
 
+## For cloud storage
 `<project-dir>/bin/pip install google-cloud-storage`
+
+## For Firestore
+`<your-env>/bin/pip install google-cloud-firestore`
