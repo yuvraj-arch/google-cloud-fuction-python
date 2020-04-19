@@ -10,3 +10,6 @@
 
 ## For Firestore
 `<your-env>/bin/pip install google-cloud-firestore`
+
+## Add environment
+GOOGLE_APPLICATION_CREDENTIALS=/Users/yuvraj/Downloads/gcloud-example-a7e252537594.json
